@@ -1,0 +1,69 @@
+
+body, ul, ol, dl, dd, h1, h2, h3, h4, h5, h6, p, form, fieldset, legend, input, textarea, select, button, th, td {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: "微软雅黑", "黑体", "宋体";
+    font-size: 13px;
+    font-size-adjust: none;
+    font-stretch: normal;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: normal;
+    line-height: 1.4;
+    background: #FFF;
+    color: #3d3e40;
+}
+#checkUserWindow {
+    height: 100%;
+    margin: 0 auto;
+    width: 100%;
+    padding: 0 10px;
+}
+
+caption {
+    text-align: center;
+    font-size: 14px;
+    font-weight: bold;
+    border: 1px solid #c8d2e1;
+    border-bottom: 0;
+    padding: 10px 0;
+    background-color: #d1dbf7;
+    color: #52617f;
+}
+.table-edit {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 1em 0;
+}
+
+.table-eidt td {
+    font: 90% Arial,Helvetica,sans-serif;
+}
+
+.table-edit tr td {
+    padding: 6px;
+    border: 1px solid #c8d2e1;
+}
+
+input .button{
+    background-image: url(./images/btn_c.gif);
+    width: 60px;
+    height: 22px;
+    border: 0;
+    color: #0c1e22;
+    font-size: 12px;
+    /* border-radius: 6px; //圆角  */
+}
+
+.table-add td span.required {
+			color: red;
+		}
+		
+		.table-add tr td{
+		text-align: right;
+		}
+
+

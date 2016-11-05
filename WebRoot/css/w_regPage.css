@@ -1,0 +1,12 @@
+.textbox{
+	height:22px;	
+}
+.granule{
+	display:none;
+}
+ li{
+  list-style-image:url(../plug/themes/icons/url_add.gif);
+ }
+ .msg{
+ 	font-size: 14px;
+ }

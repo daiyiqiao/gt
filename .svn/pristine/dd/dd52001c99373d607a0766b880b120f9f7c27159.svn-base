@@ -1,0 +1,7 @@
+jdbc.driverClassName=org.postgresql.Driver
+jdbc.url=jdbc\:postgresql\://192.168.77.189\:5432/gtcdoi
+#jdbc.url=jdbc:postgresql://localhost:5432/gtback
+jdbc.username=gt
+jdbc.password=gt
+hibernate.dialect=org.hibernate.dialect.PostgreSQLDialect
+

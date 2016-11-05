@@ -1,0 +1,17 @@
+[{
+"id":1,
+"role":"role1"
+},{
+"id":2,
+"role":"role2"
+},{
+"id":3,
+"role":"role3",
+"selected":true
+},{
+"id":4,
+"role":"role4"
+},{
+"id":5,
+"role":"role5"
+}]
